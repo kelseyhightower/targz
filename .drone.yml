@@ -3,7 +3,7 @@ env:
   - GOPATH=/var/cache/drone
 script:
   - go build
-  - sleep 1
+  - sleep 2
   - go test -v
 notify:
   email:
