@@ -1,6 +1,5 @@
 # targz
 
-
 Simple package for creating `*tar.gz` files.
 
 ## Usage
